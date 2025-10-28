@@ -5,6 +5,8 @@ on:
         # Sequence of patterns matched against refs/tags
         tags:
             - '*' # Push events to matching any tag format, i.e. 1.0, 20.15.10
+        branches:
+            - '*'
 
 env:
     PLUGIN_NAME: shiki-highlighter # Change this to the name of your plugin-id folder
