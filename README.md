@@ -1,3 +1,6 @@
+
+Double click to edit code blocks.
+
 # Obsidian Shiki Plugin
 
 This plugin integrates [shiki](https://shiki.style/) via [Expressive Code](https://expressive-code.com/) into Obsidian, providing better syntax highlighting for over 100 languages.
